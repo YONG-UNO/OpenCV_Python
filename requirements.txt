@@ -1,6 +1,3 @@
 # pip install -r requirements.txt
-opencv-python
-numpy
-pandas
-matplotlib
-seaborn
+opencv-contrib-python == 4.8.0.74
+mediapipe == 0.10.21

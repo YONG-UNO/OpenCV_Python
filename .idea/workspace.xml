@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19b2eb35-1f06-46e5-96fb-28238e48ac82" name="更改" comment="add the class of snake">
-      <change afterPath="$PROJECT_DIR$/gesture_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gesture_snake_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_images/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/constants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake_game/snake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_images/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +44,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.game.executor": "Run",
-    "Python.gesture_controller.executor": "Run",
-    "Python.gesture_snake_game.executor": "Run",
-    "Python.renderer.executor": "Run",
-    "Python.snake.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.untitled-1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/dingyong/PycharmProjects/OpenCV_Python/test_images",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gesture_controller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gesture_snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.renderer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.untitled-1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dingyong/PycharmProjects/OpenCV_Python/test_images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/test_images" />
